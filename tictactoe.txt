@@ -1,0 +1,9 @@
+==========================================================================
+
+Tic Tac Toe Results:
+
+Stacey is a legend and crushed the AI! They won in 3 moves! It only took 14 seconds for them to win!
+Stacey is a legend and crushed the AI! They won in 3 moves! It only took 17 seconds for them to win!
+Isaac is a legend and crushed the AI! They won in 5 moves! It only took 31 seconds for them to win!
+KingleDorf is a legend and crushed the AI! They won in 3 moves! It only took 13 seconds for them to win!
+Masamune is a legend and crushed the AI! They won in 3 moves! It only took 11 seconds for them to win!

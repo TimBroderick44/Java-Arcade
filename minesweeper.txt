@@ -1,0 +1,6 @@
+==========================================================================
+
+Minesweeper Results:
+Stacey thought it would be a good idea to play with live mines... They didn't make it! They were playing on a board 15x15 with 50 mines. It took them 166 seconds to blow themselves up.
+Isaac found all the mines!! They were playing on a board 5x5 with 1 mines. It took them 2 seconds to find them all.
+Masamune found all the mines!! They were playing on a board 4x4 with 1 mines. It took them 14 seconds to find them all.
