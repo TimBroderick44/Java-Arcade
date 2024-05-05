@@ -1,6 +1,7 @@
 ==========================================================================
 
 Hangman Results:
+
 Stacey failed to guess the word! They took 8 seconds and made 8 guesses.
 KingleDorf failed to guess the word! They took 14 seconds and made 13 guesses.
 Isaac failed to guess the word! They took 14 seconds and made 9 guesses.
